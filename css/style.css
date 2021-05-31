@@ -1582,6 +1582,7 @@ button:focus {
     display: none;
   }
   .subtitle--buy {
+    margin-top: 60px;
     font-size: 16px;
   }
 
